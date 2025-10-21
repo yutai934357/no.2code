@@ -4,6 +4,7 @@ var Score = [
     [85, 85, 80, 90, 80],
 ];
 
+
 // 計算每個子陣列的平均值
 for (var i = 0; i < Score.length; i++) {
     let sum = 0;
